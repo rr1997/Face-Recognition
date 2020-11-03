@@ -29,4 +29,4 @@ from the training images Put them In a List of Ids and FaceSamples and return it
 Detector
 Loading Recognizer Lets start the main loop and do the following basic steps Starts capturing frames from the camera object Convert it
 to Gray Scale Detect and extract faces from the images Use the recognizer to recognize the Id of the user Put predicted Id/Name 
-and Rectangle on detected face
+and Rectangle on detected face.
